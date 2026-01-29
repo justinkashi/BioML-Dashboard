@@ -1,0 +1,8 @@
+projects:
+  - name: PETase zero-shot variant ranking
+    domain: protein engineering / BioML
+    stack: [esm, alphafold, pandas, pytorch, evcouplings]
+    goals: [optimize NDCG@10 topK ranking, export act1/act2/expression ranks]
+    constraints: [limited labels, compute-bound]
+    context_files:
+      - intelligence/context/docs/alignbio_zero_shot.md

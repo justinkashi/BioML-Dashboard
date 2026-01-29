@@ -1,0 +1,17 @@
+papers:
+  - title: AlphaGenome
+    url: https://www.nature.com/articles/s41586-025-10014-0
+    source: Nature
+    notes: DNA foundation model for regulatory variant effects; assess if transferable to expression prediction in our setting.
+
+github:
+  - repo: facebookresearch/esm
+    notes: ESM protein language models; check updates relevant to embedding extraction / scoring.
+
+  - repo: pandas-dev/pandas
+    notes: Track pandas 3.x changes (copy-on-write) for pipeline performance/memory behavior.
+
+docs:
+  - name: Pandas 3.0 whatsnew
+    url: https://pandas.pydata.org/docs/whatsnew/v3.0.0.html
+    notes: Key API + performance changes; note breaking changes impacting our notebooks.
