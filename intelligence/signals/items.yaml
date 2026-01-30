@@ -15,3 +15,8 @@ docs:
   - name: Pandas 3.0 whatsnew
     url: https://pandas.pydata.org/docs/whatsnew/v3.0.0.html
     notes: Key API + performance changes; note breaking changes impacting our notebooks.
+    
+slides:
+  - title: JPM Healthcare 2026 – Company X deck
+    url: https://...
+    notes: Track modality/platform claims; extract comparable metrics vs our pipeline needs.

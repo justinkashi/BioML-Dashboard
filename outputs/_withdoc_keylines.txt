@@ -1,0 +1,25 @@
+115:### papers: AlphaGenome
+121:- Relevance: IGNORE (no-LLM fallback)
+123:**Why**
+126:**Direct actions (30d)**
+129:**Creative mode**
+132:### github: facebookresearch/esm
+136:- Relevance: HIGH (no-LLM fallback)
+138:**Why**
+141:**Direct actions (30d)**
+144:**Creative mode**
+147:### github: pandas-dev/pandas
+151:- Relevance: MEDIUM (no-LLM fallback)
+153:**Why**
+156:**Direct actions (30d)**
+159:**Creative mode**
+162:### docs: Pandas 3.0 whatsnew
+168:- Relevance: MEDIUM (no-LLM fallback)
+170:**Why**
+173:**Direct actions (30d)**
+176:**Creative mode**
+179:### slides: JPM Healthcare 2026 – Company X deck
+185:- Relevance: IGNORE (no-LLM fallback)
+187:**Why**
+190:**Direct actions (30d)**
+193:**Creative mode**

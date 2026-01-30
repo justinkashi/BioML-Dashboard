@@ -2,6 +2,7 @@ from datetime import date
 from intelligence.context.collect_context import build_context
 from intelligence.signals.load_signals import load_items
 from intelligence.reasoning.relevance import assess
+from intelligence.reasoning.llm_openai import llm
 
 def main(llm=None):
     context = build_context()
@@ -26,4 +27,4 @@ def main(llm=None):
     print("Wrote outputs/weekly_report.md")
 
 if __name__ == "__main__":
-    main()
+    main(llm=llm)
